@@ -1,0 +1,10 @@
+{
+  "name": "local-commander",
+  "version": "1.0.0",
+  "description": "Work on approved projects on your Windows computers: read files and Git, run the checks you approve, and check local services.",
+  "mcpServers": {
+    "local-commander": {
+      "httpUrl": "https://localcmd.app/mcp"
+    }
+  }
+}
