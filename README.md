@@ -1,6 +1,6 @@
 # Local Commander for Gemini CLI
 
-A Gemini CLI extension for [Local Commander](https://localcmd.app). It connects Gemini CLI to the hosted server `https://localcmd.app/mcp`, so your AI can inspect approved project files and Git state, run the checks and commands you authorize, and diagnose approved localhost services on Windows 11 computers you own. Your workspace at localcmd.app shows which computer ran each request and how it ended.
+A Gemini CLI extension for [Local Commander](https://localcmd.app). It connects Gemini CLI to the hosted server `https://localcmd.app/mcp`, so your AI gets hands on every computer you own: it can run commands and scripts, change settings, edit files and check local services on any of them, from one chat. Your workspace at localcmd.app shows which computer ran each request and how it ended.
 
 This repository holds configuration only. The service runs at localcmd.app.
 
